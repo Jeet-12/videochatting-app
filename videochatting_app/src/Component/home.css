@@ -1,0 +1,24 @@
+
+.container{
+    background-color: rgba(29, 134, 203, 0.831);
+    padding: 1rem;
+    border: 0.3rem solid black;
+    border-radius: 2rem;
+    justify-content: center;
+    text-align: center;
+    width: 60%;
+    margin: auto ; 
+    margin-top: 10%;
+    height: 100%;
+   
+    
+    
+}
+.join{
+    border: 0.1rem solid white;
+    background-color: rgb(222, 152, 102);
+    padding: 0.4rem;
+    
+    font-size: larger;
+    border-radius: 2rem;
+}
